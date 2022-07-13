@@ -1,0 +1,54 @@
+
+
+// from start
+.sec_form{
+  width: 100%;
+  height: 500px;
+}
+strong{
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  margin: 0px 0px 30px 0px;
+}
+
+.form-f{
+  margin-top: 100px;
+}
+
+.add-inputs{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+}
+.input_form, .contact_buuton{
+margin: 10px 0px 0px 0px;
+width: 500px;
+height: 50px;
+border: 0.5px solid;
+border-radius: 10px;
+font-family: 'Roboto', sans-serif;
+font-size: 17px;
+}
+
+.custom-file-upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  width: 500px;
+height: 50px;
+border-radius: 10px;
+  cursor: pointer;
+  transition: 0.2s;
+  margin-top: 10px;
+}
+.contact_buuton:hover{
+
+  background: rgb(135, 135, 135);
+  transition: 0.2s;
+}
+
+
+// form end

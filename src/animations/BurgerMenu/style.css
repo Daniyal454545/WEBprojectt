@@ -1,0 +1,96 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 10px 0px 0px 0px;
+}
+
+.logo {
+  margin: 0px 0px 0px 40px;
+}
+
+.MuiButton-root {
+  border-radius: 18px !important;
+}
+
+.container {
+  width: 100%;
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.nav {
+  z-index: 30;
+  width: 1300px;
+  height: 50px;
+  border: 0.5px solid rgba(0, 0, 0, 0.345);
+  background-color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transition: height .5s ease;
+  transition: height .5s ease;
+  border-radius: 25px;
+  position: fixed;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.6rem;
+}
+
+.nav .logo {
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.nav-list {
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: auto;
+  margin-left: 4rem;
+}
+
+.nav-link {
+  margin: 0 2rem;
+  position: relative;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.MuiButton-root {
+  margin: 10px !important;
+}
+/*# sourceMappingURL=style.css.map */

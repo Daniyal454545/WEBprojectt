@@ -1,0 +1,32 @@
+.section_store{
+    width: 100%;
+    height: 900px;
+}
+.section_h6{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.section_block{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.cards{
+    width: 302px;
+    height: 500px;
+    border-radius: 20px;
+    border: 1px solid;
+}
+.section_button{
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px;
+    position: absolute;
+    top: 710px;
+}
+.section_button:hover{
+    background-color: #bddafa;
+}

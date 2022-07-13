@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+.start {
+  position: relative;
+}
+
+.start .Home_h {
+  position: absolute;
+  top: 300px;
+  left: 70px;
+  font-size: 72px;
+}
+
+.start .Home_h h1 {
+  font-family: 'Roboto', sans-serif;
+  color: #327183;
+  margin: 10px;
+}
+
+.start .Home_h p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: gray;
+  left: 100px !important;
+}
+
+.start .Home_h .Home_button {
+  width: 321px;
+  height: 70px;
+  font-size: 23px;
+  top: 428px;
+  color: #ffff;
+  border: 1px;
+  background: #F15525;
+  border-radius: 82px;
+}
+
+.start .Home_img .Home_img_logo {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  top: 233px;
+  left: 834px;
+}
+/*# sourceMappingURL=Home.css.map */

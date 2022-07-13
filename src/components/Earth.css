@@ -1,0 +1,23 @@
+.Apps {
+  position: relative;
+  width: 5500px;
+  margin: 100px 0px 0px 0px;
+  left: 150px;
+}
+
+img {
+  border-radius: 20px !important;
+}
+
+h4 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 40px;
+  font-size: 30px;
+  color: black;
+}
+/*# sourceMappingURL=Earth.css.map */

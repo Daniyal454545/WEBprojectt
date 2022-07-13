@@ -1,0 +1,105 @@
+.intro {
+  position: relative;
+}
+
+.intro .Home_two_arrow {
+  position: absolute;
+  width: 42px;
+  top: 3px;
+  left: 700px;
+  color: #e1d7d79e !important;
+}
+
+.intro h2 {
+  position: absolute;
+  top: 100px;
+  left: 550px;
+  font-size: 40px;
+}
+
+.intro h3 {
+  position: absolute;
+  top: 650px;
+  left: 450px;
+  font-size: 30px;
+}
+
+.big_block {
+  position: absolute;
+  width: 1161px;
+  height: 420px;
+  top: 183px;
+  left: 140px;
+  background: #F3F9FB;
+  border-radius: 48px;
+}
+
+.big_block .insides {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.big_block .insides .Home_two {
+  width: 407.08px;
+  height: 352.85px;
+  left: 242.92px;
+  top: 824px;
+}
+
+.big_block .insides .Home_two_p {
+  font-size: 24px;
+  margin: 30px 30px 0px 30px;
+}
+
+.big_block .Home_two_button_one {
+  top: 300px;
+  width: 149px;
+  margin: 0px 20px 10px 500px;
+  height: 50px;
+  top: 3095px;
+  border: 1px;
+  background: #F15525;
+  border-radius: 82px;
+  font-size: 17px;
+}
+
+.big_block a {
+  color: #EAF2F5;
+}
+
+.big_block .Home_two_button_two {
+  width: 149px;
+  height: 50px;
+  left: 445px;
+  top: 3095px;
+  border: 1px;
+  background: #2555f1;
+  border-radius: 82px;
+  font-size: 17px;
+}
+
+.big_block .mini_blocks {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  top: 527px;
+}
+
+.big_block .mini_blocks .block_1 {
+  width: 270px;
+  height: 234px;
+  background: #EAF2F5;
+  border-radius: 30px;
+  margin: 10px;
+}
+/*# sourceMappingURL=Mars.css.map */

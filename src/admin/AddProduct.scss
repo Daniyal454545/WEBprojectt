@@ -1,0 +1,24 @@
+.inpForm{
+    margin: 70px 0px 70px 0px ;
+    display: flex;
+    // flex-direction: column;
+    justify-content: center;
+    border: 2px solid white !important;
+    width: 320px;
+    height: 250px;
+
+    border-radius: 10px;
+}
+.add-inputs{
+    display: flex;
+    justify-content: center;
+}
+
+
+.inpPage{
+    height: 600px;
+}
+
+.MuiPaper-root {
+    height: 250px;
+}

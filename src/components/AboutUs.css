@@ -1,0 +1,26 @@
+.pa {
+  width: 1440px;
+  height: 900px;
+  background-color: #F0F6F7;
+  position: relative;
+}
+
+.mainp {
+  width: 400px;
+  height: 300px;
+  left: 400px;
+  border: 1px solid;
+  border-color: red;
+  position: absolute;
+  top: 400px;
+}
+
+.mainp h1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=AboutUs.css.map */
